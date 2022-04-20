@@ -1,1 +1,6 @@
-# CropRecoomendation
+streamlit
+seaborn
+matplotlib
+sklearn
+pandas
+numpy
